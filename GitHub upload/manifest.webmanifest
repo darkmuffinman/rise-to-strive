@@ -1,0 +1,15 @@
+{
+  "name": "Rise To Strive",
+  "short_name": "Rise To Strive",
+  "description": "A season of goals, one day at a time. Quests, a level counter that goes to 30, and a character that grows with you.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8fd4ff",
+  "theme_color": "#1e86e0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
